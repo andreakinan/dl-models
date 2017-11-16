@@ -1,7 +1,7 @@
 {
   "name": "dl-models",
   "version": "1.0.0",
-  "description": "Dan Liris Models",
+  "description": "Multiyasa Abadi Sentosa Models",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danliris/dl-models.git"
+    "url": "git+https://github.com/Multiyasa-Abadi-Sentosa/dl-models.git"
   },
   "author": "Moonlay.Tech",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danliris/dl-models/issues"
+    "url": "https://github.com/Multiyasa-Abadi-Sentosa/dl-models/issues"
   },
-  "homepage": "https://github.com/danliris/dl-models#readme",
+  "homepage": "https://github.com/Multiyasa-Abadi-Sentosa/dl-models#readme",
   "devDependencies": {
     "codeclimate-test-reporter": "^0.4.0",
     "coveralls": "^2.11.15",
